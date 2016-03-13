@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/songkick/hil/ast"
 )
 
 func TestEval(t *testing.T) {

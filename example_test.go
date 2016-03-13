@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/hashicorp/hil"
+	"github.com/songkick/hil"
 )
 
 func Example_basic() {
